@@ -14,3 +14,9 @@ A public repository for my implementations of data structures and algorithms.
     * [x] C++ (cpp17 and prior)
     * [ ] C++ (cpp20 and later)
     * [ ] Python
+
+## Contest Solutions
+
+### CodeForces
+
+* [Round 929 (Div. 3)](https://codeforces.com/contest/1933)
